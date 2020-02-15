@@ -12,7 +12,6 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
@@ -174,6 +173,8 @@ has_many :address
 |name|string| |
 ### Association
 has_many :products
+
+
 
 
 * Database initialization
